@@ -1,35 +1,31 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Borde](./assets/superior.png)
 
-Bienvenidos a
-# Programación con objetos I
+<h1 align="center"> Lorena Soledad Denhoff </h1>
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Micaela Bidegain, Branko Muruaga y Maricel Benitez.
+## :small_blue_diamond: Quién soy?
+Hola! Mi nombre es Lorena, tengo 40 años, soy estudiante de la Tecnicatura Universitaria en Programación, crecí y me críe en la localidad de Hurlingham, tengo una hermosa bebé de 2 años y estoy en pareja hace 20 años.
+Estoy en la universidad desde el año 2021, anteriormente cursé en la Universidad de General Sarmiento, pero por cuestiones de cercanía decidí cambiarme ya que estaba a 3 horas de viaje ida y vuelta
+Soy fanática de Harry Potter, me gustan los libros, las películas, las series y escuchar rock nacional, aunque la cumbia me gusta más. 
+Me gusta mucho estar con mi familia y mis amistades.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## :small_blue_diamond: Lista de libros que me gustan
+:white_check_mark: Harry Potter todos!<br>
+:white_check_mark: La ladrona de libros<br>
+:white_check_mark: El niño con el pijama a rayas<br>
+:white_check_mark: Alicia en el pais de las maravillas<br>
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+## :small_blue_diamond: Lista de películas que me gustan
+:white_check_mark: Harry Potter y el prisionero de Azkaban // Las reliquias de la muerte parte 2<br>
+:white_check_mark: Trilogía volver al futuro<br>
+:white_check_mark: Cadena de favores<br>
+:white_check_mark: Inteligencia artificial<br>
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+## :small_blue_diamond: Lista de series que me gustan
+:white_check_mark: The Big Bang Theory<br>
+:white_check_mark: The walking dead<br>
+:white_check_mark: Dairios de vampiros<br>
+:white_check_mark: Sex and the city<br>
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+![Borde](./assets/inferior.png)
